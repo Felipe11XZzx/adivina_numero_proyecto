@@ -61,6 +61,5 @@ function checkNumber() {
   // Si es un número y no es correcto. -> Comprobamos score: ¿Perdemos partida?
 
   // Si es un número y es correcto. -> Actualizamos nuestras variables y el DOM.
-
   console.log("Ahora comprobaríamos el número: " + guessPuntuation)
 }
